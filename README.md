@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dwa1503@gmail.com**
 
-- ⚡ Fun fact **ChatGPT is my teacher, but it never gives me homework—just endless knowledge!**
+- ⚡ Fun fact **ChatGPT is my teacher, but it never gives me homework, just endless knowledge!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
