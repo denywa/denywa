@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student | Tech Enthusiast</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/n52WS-CO8tsAAAAj/cat-cats.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Y4-hpx-ALScAAAAj/besos-gif.gif">
 
 - 🌱 I’m currently learning **Laravel, Flutter and Cybersecurity Concepts**
 
