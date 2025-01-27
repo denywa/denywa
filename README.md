@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/n52WS-CO8tsAAAAj/cat-cats.gif">
 
-- 🌱 I’m currently learning **Laravel, Flutter and Cybersecurity Concepts**
+- 🌱 I’m currently learning **Laravel and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/denywa](https://github.com/denywa)
 
